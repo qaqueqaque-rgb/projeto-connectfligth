@@ -6,7 +6,7 @@ O ConnectFlight é um projeto desenvolvido em React com o objetivo de reproduzir
 
 A página apresenta uma ilustração relacionada a viagens, informações sobre pacotes turísticos, uma área de ofertas e links de navegação.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 
 
 - **React** — construção da interface com componentes.
 - **Vite** — ferramenta de desenvolvimento e inicialização do projeto.
