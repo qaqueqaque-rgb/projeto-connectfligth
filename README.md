@@ -43,16 +43,16 @@ Abra no navegador o endereço apresentado no terminal, geralmente http://localho
 ## Estrutura do projeto
 
 projeto-connectfligth/
-├── public/
-│   └── imagens/
-│       ├── Favicon.svg
-│       ├── img1.jpg
-│       └── Wave.png
+public/
+imagens/
+   ├── Favicon.svg
+   ├── img1.jpg
+   └── Wave.png
 ├── src/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
+   ├── App.jsx
+   ├── App.css
+   ├── index.css
+   └── main.jsx
 ├── index.html
 ├── package.json
 └── README.md
