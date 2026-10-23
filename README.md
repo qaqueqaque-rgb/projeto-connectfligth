@@ -1,16 +1,67 @@
-# React + Vite
+# ConnectFlight — Página de Destinos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Sobre o projeto
 
-Currently, two official plugins are available:
+O ConnectFlight é um projeto desenvolvido em React com o objetivo de reproduzir uma interface de uma página de viagens com base em um protótipo do Figma.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A página apresenta uma ilustração relacionada a viagens, informações sobre pacotes turísticos, uma área de ofertas e links de navegação.
 
-## React Compiler
+## Tecnologias utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React** — construção da interface com componentes.
+- **Vite** — ferramenta de desenvolvimento e inicialização do projeto.
+- **HTML e JSX** — estruturação dos elementos da página.
+- **CSS** — estilização da interface.
+- **Flexbox** — organização e alinhamento dos elementos.
+- **Git e GitHub** — versionamento e armazenamento do código-fonte.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Como executar o projeto
+
+É necessário ter o Node.js e o npm instalados no computador.
+
+## instalação
+
+Clone este repositório:
+
+git clone URL_DO_REPOSITORIO
+
+Entre na pasta do projeto:
+
+cd projeto-connectfligth
+
+Instale as dependências:
+
+npm install
+
+Inicie o servidor de desenvolvimento:
+
+npm run dev
+
+Abra no navegador o endereço apresentado no terminal, geralmente http://localhost:5173/.
+
+## Estrutura do projeto
+
+projeto-connectfligth/
+├── public/
+│   └── imagens/
+│       ├── Favicon.svg
+│       ├── img1.jpg
+│       └── Wave.png
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── index.html
+├── package.json
+└── README.md
+
+## Objetivo acadêmico
+
+Este projeto tem como objetivo praticar o desenvolvimento de interfaces utilizando React, JSX e CSS, aplicando conceitos de componentes, organização de código, responsividade e controle de versão com Git e GitHub.
+
+Projeto acadêmico — ConnectFlight.
+---
+
+**Projeto acadêmico — ConnectFlight.**
